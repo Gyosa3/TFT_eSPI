@@ -9,7 +9,7 @@
 // and to correct rotation handling
 
 // See license in root directory.
-#include "TFT_eSPI.h"
+#include <TFT_eSPI.h>
 
 // Define a default pressure threshold
 #ifndef Z_THRESHOLD
